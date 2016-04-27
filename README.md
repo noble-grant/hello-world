@@ -1,2 +1,2 @@
 # hello-world
-GitHub test repository
+Grant's GitHub test repository.
